@@ -9,7 +9,7 @@
 <div style="display: inline_block"><br>
   <a href = "https://github.com/JoaoOtavioDev">
   <img height="180" src="https://github-readme-stats-bvzto6uy7-joaos-projects-e21da5f0.vercel.app/api?username=JoaoOtavioDev&show_icons=true&theme=radical">
-  <img height="180" src="https://github-readme-stats-bvzto6uy7-joaos-projects-e21da5f0.vercel.app/api/top-langs/?username=JoaoOtavioDev&layout=compact&theme=radical">
+  <img height="180" src="https://github-readme-stats-psi-five-42.vercel.app/api/top-langs/?username=JoaoOtavioDev&layout=compact&theme=radical">
 </div>
 
 <br>
